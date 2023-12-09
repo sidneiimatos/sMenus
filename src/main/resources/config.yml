@@ -1,0 +1,26 @@
+menu:
+  nome: "Novos itens"
+  tamanho: 27
+  itens:
+    menu1:
+      inventory-slot: 10
+      display:
+        material: "BEDROCK"
+        data: 0
+        quantity: 1
+        name: "Teste"
+        description:
+          - '&bTeste do item pow'
+          - '&bTeste do item pow'
+          - '&bTeste do item pow'
+    menu2:
+      inventory-slot: 11
+      display:
+        material: "STONE"
+        data: 0
+        quantity: 1
+        name: "Teste"
+        description:
+          - '&bTeste do item pow'
+          - '&bTeste do item pow'
+          - '&bTeste do item pow'

@@ -1,0 +1,5 @@
+name: sMenus
+version: '${project.version}'
+main: io.github.sidneiimatos.smenus.SMenus
+commands:
+  menu:
